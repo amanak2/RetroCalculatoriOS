@@ -13,6 +13,7 @@
 		929A45351E66E58600936F33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 929A45341E66E58600936F33 /* Assets.xcassets */; };
 		929A45381E66E58600936F33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 929A45361E66E58600936F33 /* LaunchScreen.storyboard */; };
 		929A45401E69885F00936F33 /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 929A453F1E69885F00936F33 /* Minecrafter.Reg.ttf */; };
+		929A45421E698A7900936F33 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 929A45411E698A7900936F33 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		929A45371E66E58600936F33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		929A45391E66E58600936F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		929A453F1E69885F00936F33 /* Minecrafter.Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Reg.ttf; sourceTree = "<group>"; };
+		929A45411E698A7900936F33 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		929A452C1E66E58600936F33 /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				929A45411E698A7900936F33 /* btn.wav */,
 				929A453F1E69885F00936F33 /* Minecrafter.Reg.ttf */,
 				929A452D1E66E58600936F33 /* AppDelegate.swift */,
 				929A452F1E66E58600936F33 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				929A45421E698A7900936F33 /* btn.wav in Resources */,
 				929A45381E66E58600936F33 /* LaunchScreen.storyboard in Resources */,
 				929A45351E66E58600936F33 /* Assets.xcassets in Resources */,
 				929A45331E66E58600936F33 /* Main.storyboard in Resources */,
